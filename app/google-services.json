@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "156087158241",
+    "firebase_url": "https://ti20-4d2cc.firebaseio.com",
+    "project_id": "ti20-4d2cc",
+    "storage_bucket": "ti20-4d2cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156087158241:android:c3bf65d6239d7d8b",
+        "android_client_info": {
+          "package_name": "com.example.ti20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156087158241-b0rjjal8t0u950lq8g1s7ejr5mo33igr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ti20",
+            "certificate_hash": "d85f72cd2a5358080e370bddb52a227f14f1ba89"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOCJFTZfaQvKt1zFrexUNuTMGp3SQOF0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156087158241-gosp7jb1p0dm02ns7d2nah5a8ptsglu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
